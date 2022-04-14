@@ -1,0 +1,9 @@
+.counter--container {
+  border: 1px solid black;
+  width: fit-content;
+  padding: 2em 5em;
+  border-radius: 1em;
+  margin: auto;
+  text-align: center;
+  transform: translateY(10em);
+}
